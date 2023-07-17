@@ -1,4 +1,4 @@
-# a program that prints numbers from 0 to 99 
+# a program that  numbers from 0 to 99 
 
 for i in range(0, 100):
     if(i<99):
